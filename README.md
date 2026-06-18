@@ -1,17 +1,16 @@
-# Telecom Customer Churn Analysis
-## Project Overview
-Customer retention is a key driver of business growth and profitability. While acquiring new customers is important, retaining existing customers is often more cost-effective.
-In this project, I analyzed a telecom customer churn dataset containing information on 7,046 customers to identify the key factors driving customer attrition and provide data-driven recommendations to improve retention.
-The analysis and dashboard were developed using Microsoft Excel.
-## Objectives
+# Telecom Customer Churn Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objectives
+To identify the key factors driving customer churn and provide data-driven recommendations to improve retention.
+## Dataset used
+<a href="https://github.com/harunaprecious/Customer-Churn-Analysis-Dashboard/blob/main/Telecom-Customer-Churn-Analysis%20Dataset.xlsx">Dataset
+## Questions(KPI)
 The project aimed to answer the following questions:
 •	What is the overall customer churn rate?
 •	Which customer segments are most likely to churn?
 •	How does customer tenure affect churn?
 •	Which products and services are associated with higher churn?
 •	What impact does contract type have on customer retention?
-## Dataset used
-<a href="https://github.com/harunaprecious/Customer-Churn-Analysis-Dashboard/blob/main/Telecom-Customer-Churn-Analysis%20Dataset.xlsx">Dataset
+    Dashboard interactive view 
 ## Key Findings
 ## Overall Churn Rate
 •	Total customers: 7,046
