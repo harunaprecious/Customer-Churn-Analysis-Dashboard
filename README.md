@@ -45,11 +45,7 @@ The project aimed to answer the following questions:
 ## Conclusion
 The analysis revealed that customer churn is driven primarily by early customer tenure, contract type, the absence of support services, and specific geographic locations. By focusing on customer onboarding, increasing adoption of retention-supporting services, and addressing issues in high-churn segments, telecom companies can improve customer retention and reduce revenue loss.
 ## Tools Used
-•	Microsoft Excel
-o	Data Cleaning
-o	Pivot Tables
-o	Dashboard Development
-o	Data Visualization
+•	Microsoft Excel,Data Cleaning,Pivot Tables,Dashboard Development,Data Visualization.
 
 
 
