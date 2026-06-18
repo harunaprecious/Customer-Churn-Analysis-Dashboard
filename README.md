@@ -10,7 +10,7 @@ The project aimed to answer the following questions:
 •	How does customer tenure affect churn?
 •	Which products and services are associated with higher churn?
 •	What impact does contract type have on customer retention?
-    Dashboard interactive view 
+    Dashboard interactive view <a href="https://github.com/harunaprecious/Customer-Churn-Analysis-Dashboard/blob/main/Screenshot%20of%20Dashboard.png">Dashboard
 ## Key Findings
 ## Overall Churn Rate
 •	Total customers: 7,046
