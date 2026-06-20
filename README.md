@@ -12,7 +12,27 @@ The project aimed to answer the following questions:
 •	What impact does contract type have on customer retention?
     Dashboard interactive view <a href="https://github.com/harunaprecious/Customer-Churn-Analysis-Dashboard/blob/main/Screenshot%20of%20Dashboard.png">Dashboard
 
-    ![This is the image](https://github.com/harunaprecious/Customer-Churn-Analysis-Dashboard/blob/846084f2a722d4c0748d4dc03444c021ce215c98/Screenshot%20of%20Dashboard.png)
+## Dashboard Preview
+
+<img src="Screenshot%20of%20Dashboard.png" alt="Customer Churn Dashboard" width="900">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 ## Key Findings
 ## Overall Churn Rate
