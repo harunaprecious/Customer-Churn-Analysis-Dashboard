@@ -2,11 +2,12 @@
 ## Project Objectives
 To identify the key factors driving customer churn and provide data-driven recommendations to improve retention.
 ## Dataset used
-<a href="https://github.com/harunaprecious/Customer-Churn-Analysis-Dashboard/blob/main/Telecom-Customer-Churn-Analysis%20Dataset.xlsx">Dataset
+<a href="https://github.com/harunaprecious/Customer-Churn-Analysis-Dashboard/blob/main/Telecom-Customer-Churn-Analysis%20Dataset.xlsx">Dataset</a>
 ## Questions(KPI)
 The project aimed to answer the following questions:
 •	What is the overall customer churn rate?
 •	Which customer segments are most likely to churn?
+
 •	How does customer tenure affect churn?
 •	Which products and services are associated with higher churn?
 •	What impact does contract type have on customer retention?
